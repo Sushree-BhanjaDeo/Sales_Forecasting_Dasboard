@@ -84,7 +84,7 @@ Sales_Forecasting_Dashboard/
 ## 📊 Dashboard Preview
 
 ![Order Analysis](Images/order_analysis.png)
-![Sales Forecast](Images/sales_forecast.png)
+![Sales Forecast](Images/sales_forecast%20.png)
 
 ---
 
